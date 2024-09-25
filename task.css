@@ -1,0 +1,97 @@
+body{
+    margin: 0px;
+}
+.nevbar{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    background-color: aliceblue;
+
+}
+.firstlogo{
+    height: 100%;
+    width: 14%;
+    display: flex;
+    justify-content: center;
+}
+.searchbox{
+    height: 100%;
+    width: 35%;
+    display: flex;
+    align-content: center;
+}
+#search{
+    height: 35%;
+    margin-top: 29px;
+    width: 75%;
+    background-color:rgb(229, 238, 238);
+    border: 0;
+
+}
+.search1{
+    width: 10%;
+    margin-top: 28px;
+    height: 36%;
+    margin-right: 15%;
+
+}
+#firsticon{
+    font-size: 23px;
+    border: 0;
+}
+.nevextra{
+    height: 100%;
+    width: 17%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.joinbutton{
+    height: 100%;
+    width: 17%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.join{
+    background-color: rgb(104, 237, 237);
+    height: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 6px;
+    border-radius: 16px;
+    width: 50%;
+    border-bottom-style:groove;
+    border-right-style: groove;
+}
+.straightline{
+    height: 1.5px;
+    background-color: darkblue;
+}
+.bottomnev{
+    background-color:aliceblue;
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+.bottomtext{
+    width: 16.6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+.firstimage{
+    width: 100%;
+    height: fit-content;
+    margin-top: 30px;
+    border-left: 20px;
+    border-right: 20px;
+    border-color: aliceblue;
+}
+.slide{
+    
+}
